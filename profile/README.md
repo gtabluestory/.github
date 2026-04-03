@@ -18,7 +18,7 @@ Welcome to the official GitHub organization of **Blue Story** — a FiveM rolepl
 ## 🌐 Community
 
 - 🎮 **FiveM Server** — Coming Soon
-- 💬 **Discord** — [Join our server](https://discord.gg/)
+- 💬 **Discord** — [Join our server](https://discord.gg/bluestory)
 - 📋 **Roadmap** — In progress
 
 ---
